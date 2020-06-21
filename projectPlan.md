@@ -42,7 +42,7 @@ Pending on given lists
 ### Solution to existing problems
 Pending on given lists
 
-### ![Generic badge](https://img.shields.io/badge/PENDING-yellow.svg) Design Frontend Webpage for project
+### ![Generic badge](https://img.shields.io/badge/TODO-red.svg) Design Frontend Webpage for project
 Design the dynamic frontend webpage for this project
 > DEADLINE: <2020-06-25 Thu>
 >
