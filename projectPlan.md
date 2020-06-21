@@ -18,19 +18,19 @@ Do you have any favorite colors?
 
 ###  ![Generic badge](https://img.shields.io/badge/TODO-red.svg) Categorize types of Environmental Problems 
 > DEADLINE: <2020-06-24 Wed>
-
+>
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Noman-5237-black.svg?style=for-the-badge&logo=appveyor)
 
 
 ### ![Generic badge](https://img.shields.io/badge/TODO-red.svg)  List of Environmental Problems
 > DEADLINE: <2020-06-25 Thu>
-
+>
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)
 
 
 ### ![Generic badge](https://img.shields.io/badge/TODO-red.svg)  List the global effects causing environmental problems locally
 > DEADLINE: <2020-06-25 Thu>
-
+>
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/agni-noor-BLUE.svg?style=for-the-badge&logo=appveyor)
 
 ### ![Generic badge](https://img.shields.io/badge/PENDING-yellow.svg)  Causes of Environmental Problems
@@ -47,6 +47,7 @@ Pending on given lists
 
 ### ![Generic badge](https://img.shields.io/badge/TODO-red.svg) Act 1995 and Rules 1997
 > DEADLINE: <2020-06-29 Mon>
+>
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Raiyan-Noor-ORANGE.svg?style=for-the-badge&logo=appveyor) 
 - Read Act 1995
 - Read the rules 1997
