@@ -20,13 +20,13 @@ Do you have any favorite colors?
 Pending on given list
 
 
-### ![Generic badge](https://img.shields.io/badge/TODO-red.svg)  List of Environmental Problems
+### ![Generic badge](https://img.shields.io/badge/DUE-black.svg)  List of Environmental Problems
 > DEADLINE: <2020-06-25 Thu>
 >
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)
 
 
-### ![Generic badge](https://img.shields.io/badge/TODO-red.svg)  List the global effects causing environmental problems locally
+### ![Generic badge](https://img.shields.io/badge/DUE-black.svg)  List the global effects causing environmental problems locally
 > DEADLINE: <2020-06-25 Thu>
 >
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/agni-noor-BLUE.svg?style=for-the-badge&logo=appveyor)
