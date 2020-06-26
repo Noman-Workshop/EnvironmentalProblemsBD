@@ -1,5 +1,4 @@
-
-﻿# Environmental Problems in Bangladesh
+# Environmental Problems in Bangladesh
 
 - Create Issues to suggest ideas or propose changes
 - Share resources that you used
