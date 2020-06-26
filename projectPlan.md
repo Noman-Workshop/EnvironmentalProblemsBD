@@ -9,9 +9,13 @@
 Do you have any favorite colors? 
 
 ![Generic badge](https://img.shields.io/badge/drinkingWater-64-RED.svg?style=for-the-badge&logo=appveyor)
+
 ![Generic badge](https://img.shields.io/badge/agni-noor-BLUE.svg?style=for-the-badge&logo=appveyor)
+
 ![Generic badge](https://img.shields.io/badge/Noman-5237-black.svg?style=for-the-badge&logo=appveyor)
+
 ![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)	✅
+
 ![Generic badge](https://img.shields.io/badge/Raiyan-Noor-ORANGE.svg?style=for-the-badge&logo=appveyor)
 
 ## TASKS
