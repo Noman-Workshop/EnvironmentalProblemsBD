@@ -1,3 +1,4 @@
+
 ﻿# Environmental Problems in Bangladesh
 
 - Create Issues to suggest ideas or propose changes
@@ -11,7 +12,7 @@ Do you have any favorite colors?
 ![Generic badge](https://img.shields.io/badge/drinkingWater-64-RED.svg?style=for-the-badge&logo=appveyor)
 ![Generic badge](https://img.shields.io/badge/agni-noor-BLUE.svg?style=for-the-badge&logo=appveyor)
 ![Generic badge](https://img.shields.io/badge/Noman-5237-black.svg?style=for-the-badge&logo=appveyor)
-![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)
+![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)	✅
 ![Generic badge](https://img.shields.io/badge/Raiyan-Noor-ORANGE.svg?style=for-the-badge&logo=appveyor)
 
 ## TASKS
@@ -20,12 +21,15 @@ Do you have any favorite colors?
 Pending on given list
 
 
-### ![Generic badge](https://img.shields.io/badge/!!!DUE!!!-black.svg)  List of Environmental Problems
-> DEADLINE: <2020-06-25 Thu>
->
+### ![Generic badge](https://img.shields.io/badge/IN_PROGRESS-green.svg)  List of Environmental Problems
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)
+~~> DEADLINE: <2020-06-25 Thu>~~
+>
+> PRIMARY SUBMISSION: <2020-06-26 Fri>
+>
 
-
+> Suggestions:
+> - [ ] Collect precise definitions of environmental disasters with recognized reference
 ### ![Generic badge](https://img.shields.io/badge/!!!DUE!!!-black.svg)  List the global effects causing environmental problems locally
 > DEADLINE: <2020-06-25 Thu>
 >
@@ -44,10 +48,16 @@ Pending on given lists
 
 ### ![Generic badge](https://img.shields.io/badge/TODO-red.svg) Design Frontend Webpage for project
 Design the dynamic frontend webpage for this project
-> DEADLINE: <2020-06-25 Thu>
+> DEADLINE: <2020-06-30 Tue>
 >
-> ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Noman-5237-black.svg?style=for-the-badge&logo=appveyor) ![Generic badge](https://img.shields.io/badge/drinkingWater-64-RED.svg?style=for-the-badge&logo=appveyor)
-
+> ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Noman-5237-black.svg?style=for-the-badge&logo=appveyor) 
+> 
+### ![Generic badge](https://img.shields.io/badge/TODO-red.svg) Design Animated GIFS for important points listed out by ![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)
+These animated gifs will be used in powerpoint presentation
+> DEADLINE: <2020-06-01 Wed>
+>
+> ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/drinkingWater-64-RED.svg?style=for-the-badge&logo=appveyor)
+> 
 
 ### ![Generic badge](https://img.shields.io/badge/TODO-red.svg) Act 1995 and Rules 1997
 > DEADLINE: <2020-06-29 Mon>
