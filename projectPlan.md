@@ -23,7 +23,7 @@ Pending on given list
 ### ![Generic badge](https://img.shields.io/badge/IN_PROGRESS-green.svg)  List of Environmental Problems
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)
 >
-~~> DEADLINE: <2020-06-25 Thu>~~
+> ~~DEADLINE: <2020-06-25 Thu>~~
 >
 > PRIMARY SUBMISSION: <2020-06-26 Fri>
 >
