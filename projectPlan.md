@@ -35,8 +35,8 @@ Pending on given list
 > Suggestions:
 > - [ ] Collect precise definitions of environmental disasters with recognized reference
 
-### ![Generic badge](https://img.shields.io/badge/!!!DUE!!!-black.svg)  List the global effects causing environmental problems locally
-> DEADLINE: <2020-06-25 Thu>
+### ![Generic badge](https://img.shields.io/badge/TODO-black.svg)  List the global effects causing environmental problems locally
+> ~~DEADLINE: <2020-06-25 Thu>~~
 >
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/agni-noor-BLUE.svg?style=for-the-badge&logo=appveyor)
 
