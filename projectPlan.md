@@ -35,10 +35,13 @@ Pending on given list
 > Suggestions:
 > - [ ] Collect precise definitions of environmental disasters with recognized reference
 
-### ![Generic badge](https://img.shields.io/badge/TODO-red.svg)  List the global effects causing environmental problems locally
-> ~~DEADLINE: <2020-06-25 Thu>~~
->
+### ![Generic badge](https://img.shields.io/badge/DONE-green.svg)  List the global effects causing environmental problems locally
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/agni-noor-BLUE.svg?style=for-the-badge&logo=appveyor)
+>
+> ~~DEADLINE: <2020-06-25 Thu>~~
+> 
+> PRIMARY SUBMISSION: <2020-07-02 Thurs>
+
 
 ### ![Generic badge](https://img.shields.io/badge/PENDING-yellow.svg)  Causes of Environmental Problems
 Pending on given lists
