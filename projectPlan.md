@@ -10,18 +10,18 @@ Do you have any favorite colors?
 
 ![Generic badge](https://img.shields.io/badge/drinkingWater-64-RED.svg?style=for-the-badge&logo=appveyor)
 
-![Generic badge](https://img.shields.io/badge/agni-noor-BLUE.svg?style=for-the-badge&logo=appveyor)
+![Generic badge](https://img.shields.io/badge/agni-noor-BLUE.svg?style=for-the-badge&logo=appveyor) ✅
 
-![Generic badge](https://img.shields.io/badge/Noman-5237-black.svg?style=for-the-badge&logo=appveyor)
+![Generic badge](https://img.shields.io/badge/Noman-5237-black.svg?style=for-the-badge&logo=appveyor) 
 
 ![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)	✅
 
-![Generic badge](https://img.shields.io/badge/Raiyan-Noor-ORANGE.svg?style=for-the-badge&logo=appveyor)
+![Generic badge](https://img.shields.io/badge/Raiyan-Noor-ORANGE.svg?style=for-the-badge&logo=appveyor) ✅
 
 ## TASKS
 
-###  ![Generic badge](https://img.shields.io/badge/PENDING-yellow.svg) Categorize types of Environmental Problems 
-Pending on given list
+###  ![Generic badge](https://img.shields.io/badge/TODO-yellow.svg) Prepare the document
+> ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Noman-5237-black.svg?style=for-the-badge&logo=appveyor) 
 
 
 ### ![Generic badge](https://img.shields.io/badge/IN_PROGRESS-green.svg)  List of Environmental Problems
@@ -31,9 +31,9 @@ Pending on given list
 >
 > PRIMARY SUBMISSION: <2020-06-26 Fri>
 >
-
-> Suggestions:
+> Pending Tasks:
 > - [ ] Collect precise definitions of environmental disasters with recognized reference
+> - [ ] Complete definition.js
 
 ### ![Generic badge](https://img.shields.io/badge/DONE-green.svg)  List the global effects causing environmental problems locally
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/agni-noor-BLUE.svg?style=for-the-badge&logo=appveyor)
@@ -42,43 +42,29 @@ Pending on given list
 > 
 > PRIMARY SUBMISSION: <2020-07-02 Thurs>
 
-
-### ![Generic badge](https://img.shields.io/badge/PENDING-yellow.svg)  Causes of Environmental Problems
-Pending on given lists
-
-
-### ![Generic badge](https://img.shields.io/badge/PENDING-yellow.svg) Effects of Environmental Problems
-Pending on given lists
-
-
-### Solution to existing problems
-Pending on given lists
-
 ### ![Generic badge](https://img.shields.io/badge/TODO-red.svg) Design Frontend Webpage for project
 Design the dynamic frontend webpage for this project
-> DEADLINE: <2020-06-30 Tue>
->
-> ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Noman-5237-black.svg?style=for-the-badge&logo=appveyor) 
-> 
-### ![Generic badge](https://img.shields.io/badge/TODO-red.svg) Design Animated GIFS for important points listed out by ![Generic badge](https://img.shields.io/badge/Abonty-18-GREEN.svg?style=for-the-badge&logo=appveyor)
-These animated gifs will be used in powerpoint presentation
-> DEADLINE: <2020-06-01 Wed>
+> ~~DEADLINE: <2020-06-30 Tue>~~
 >
 > ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/drinkingWater-64-RED.svg?style=for-the-badge&logo=appveyor)
 > 
 
-### ![Generic badge](https://img.shields.io/badge/TODO-red.svg) Act 1995 and Rules 1997
-> DEADLINE: <2020-06-29 Mon>
->
-> ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Raiyan-Noor-ORANGE.svg?style=for-the-badge&logo=appveyor) 
-- Read Act 1995
-- Read the rules 1997
-- Extract data and summarize schedules of 1997
-- List the loopholes of Act 1995 and Rules 1997
-- Criticize the good and bad decisions in the act
-- Propose good ideas to seal the identified loop holes
-- Propose new rules to add to environment conservation rules
-
+### ![Generic badge](https://img.shields.io/badge/IN_PROGRESS-green.svg) Act 1995 and Rules 1997
+> ASSIGNED_TO: ![Generic badge](https://img.shields.io/badge/Raiyan-Noor-ORANGE.svg?style=for-the-badge&logo=appveyor)
+> 
+> ~~DEADLINE: <2020-06-29 Mon>~~
+> 
+> PRIMARY SUBMISSION: <2020-06-30 Tues>
+> 
+> Pending Tasks: 
+> - [x] Read Act 1995
+> - [x] Read the rules 1997
+> - [x] Extract data and summarize schedules of 1997
+> - [x] List the loopholes of Act 1995 and Rules 1997
+> - [x] Criticize the good and bad decisions in the act
+> - [x] Propose good ideas to seal the identified loop holes
+> - [x] Propose new rules to add to environment conservation rules
+> - [ ] Prepare the act95rules97.json 
 
 ## Resources
 Share resources
